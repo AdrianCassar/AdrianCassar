@@ -3,9 +3,9 @@
 
 ---
 
-- 🔭 I’m currently working on **MW3 CMR Editor**
+- 🔭 I’m currently working on [xenia-canary](https://github.com/xenia-canary/xenia-canary "Xbox 360 Emulator") and **MW3 Recipe Editor** 
 
-- 🌱 I’m currently learning **WPF**
+- 🌱 I’m currently learning **WPF** and **C++**
 
 <div align="left">
 <img height=200 src="https://github-readme-stats.vercel.app/api?username=adriancassar&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Adrian's Github stats" />
